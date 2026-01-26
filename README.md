@@ -99,36 +99,6 @@ const yaseen = {
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SyedYaseen&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/SyedYaseen/SyedYaseen/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-## 💼 Featured Projects
-
-<div align="center">
-
-[![Lifeline AI](https://github-readme-stats.vercel.app/api/pin/?username=SyedYaseen&repo=lifeline-ai&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/SyedYaseen/lifeline-ai)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 ## 🌐 Let's Connect!
 
 <div align="center">
